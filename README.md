@@ -38,7 +38,7 @@ A desktop expense-tracking application built with Python. SpendWise provides a T
 5. Run the application:
 
    ```bash
-   python main.py
+   python Expense Tracker.py
    ```
 
 The application creates `expenses.db` in the working directory when it starts. Expense data is stored locally on your computer.
@@ -47,7 +47,7 @@ The application creates `expenses.db` in the working directory when it starts. E
 
 ```text
 SpendWise-GitHub-Repository/
-├── main.py
+├── Expense Tracker.py
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
